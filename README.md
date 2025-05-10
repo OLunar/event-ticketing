@@ -11,4 +11,4 @@ A Node.js-based event booking API that allows users to browse events, register, 
 ## Installation  
 1. Clone the repository  
    ```sh
-   git clone https://github.com/YOUR-USERNAME/event-ticketing.git
+   git clone https://github.com/OLunar/event-ticketing.git
